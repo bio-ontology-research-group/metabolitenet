@@ -18,4 +18,4 @@ Medicinal Plants for Anti-neurodegenerative diseases in West Africa, Journal of 
 ## Acknowledgements
 This project was first proposed and developed during the [Biomedical Linked Annotation Hackathon 6](http://blah6.linkedannotation.org/) on February 4-7 2020 in Tokyo, Japan. It was further developed during the [BioHackathon-MENA 2023](https://cemse.kaust.edu.sa/cbrc/events/event/bio-hackathon-mena-2023) on February 7-11 2023 in KAUST, KSA.
 
-We are very grateful to the BLAH6 and BioHackathon-MENA 2023 for the support on this work.
+We are very grateful to the BLAH6 and BioHackathon-MENA 2023 organizers for the support and funding on this work.
